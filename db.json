@@ -1,16 +1,34 @@
 {
   "data": [
     {
-      "userId": 1,
       "id": 1,
-      "title": "delectus aut autem",
-      "completed": false
+      "judet": "Cluj",
+      "info": "Cazuri totale: 57204, Incidents cumulata: 1.14"
     },
     {
-      "userId": 3,
       "id": 2,
-      "title": "quis ut nam facilis et officia qui",
-      "completed": false
+      "judet": "Alba",
+      "info": "Cazuri totale: 21043, Incidents cumulata: 1.12"
+    },
+    {
+      "id": 3,
+      "judet": "Prahova",
+      "info": "Cazuri totale: 34916, Incidents cumulata: 1.03"
+    },
+    {
+      "id": 4,
+      "judet": "Caras-Severin",
+      "info": "Cazuri totale: 11327, Incidents cumulata: 0.98"
+    },
+    {
+      "id": 5,
+      "judet": "Ilfov",
+      "info": "Cazuri totale: 44897, Incidents cumulata: 0.96"
+    },
+    {
+      "id": 6,
+      "judet": "Sibiu",
+      "info": "Cazuri totale: 26292, Incidents cumulata: 0.9"
     }
   ]
 }
